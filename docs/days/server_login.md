@@ -103,7 +103,8 @@ When you start a session on a distant computer, you are placed in your `home` di
 ```
 
 
-From then, we are going to do a little step-by-step practical to go through some of bash's most useful commands for this course.
+From there, we are going to do a little step-by-step practical to go through some of bash's most useful commands for this course.
+
 
 ### Creating a directory
 
